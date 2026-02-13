@@ -1,0 +1,50 @@
+
+> search-autocomplete@0.1.0 dev
+> next dev --turbopack
+
+   ▲ Next.js 15.5.6 (Turbopack)
+   - Local:        http://localhost:3000
+   - Network:      http://169.254.0.21:3000
+
+ ✓ Starting...
+ ✓ Ready in 1404ms
+ ○ Compiling /search ...
+ ✓ Compiled /search in 5s
+ GET /search?q=rrr 200 in 5316ms
+ GET /search?q=rrr 200 in 109ms
+ ○ Compiling / ...
+ ✓ Compiled / in 514ms
+ GET / 200 in 603ms
+ GET / 200 in 368ms
+ ⚠ Cross origin request detected from search-autocomplete.lindy.site to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+ ✓ Compiled /favicon.ico in 415ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 729ms
+ GET / 200 in 252ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 273ms
+ GET /search?q=avengers 200 in 114ms
+ ✓ Compiled in 200ms
+ GET /search?q=avengers 200 in 492ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 280ms
+ GET / 200 in 116ms
+ GET / 200 in 161ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 285ms
+ GET /search?q=rrr 200 in 94ms
+ GET / 200 in 100ms
+ GET /search?q=inception 200 in 208ms
+ GET / 200 in 121ms
+ GET / 200 in 97ms
+ GET / 200 in 94ms
+ GET / 200 in 167ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 264ms
+ ✓ Compiled in 175ms
+ GET /search?q=rrr 200 in 240ms
+ GET / 200 in 431ms
+ GET /favicon.ico?favicon.bf3c9292.ico 200 in 359ms
+ GET /search?q=rrr 200 in 101ms
+ GET /search?q=ava 200 in 96ms
+ GET /search?q=avatar 200 in 98ms
+ GET /search?q=batman 200 in 100ms
+ GET /search?q=Avatar%3A+The+Legend+So+Far 200 in 102ms
+ GET / 200 in 99ms
+ GET /search?q=avengers 200 in 87ms
